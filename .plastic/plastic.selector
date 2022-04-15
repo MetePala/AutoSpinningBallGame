@@ -1,0 +1,4 @@
+repository "RenkliDonenTopOyunu@metepala98@cloud"
+  path "/"
+    br "/main"
+    co "/main"
